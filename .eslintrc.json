@@ -1,0 +1,10 @@
+{
+
+"extends": "standard-with-typescript",
+"parserOptions": {
+  "project": "./tsconfig.json"
+}
+eslint-disable @typescript-eslint/restrict-plus-operands
+
+
+}
